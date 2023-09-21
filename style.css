@@ -1,0 +1,12 @@
+/* black background color and use white text with Consolas font */
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Consolas;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
